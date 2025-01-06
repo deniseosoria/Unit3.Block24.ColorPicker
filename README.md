@@ -1,3 +1,3 @@
 # 🎨 Color Picker
 
-Follow the instructions in the workshop to finish the assignment!
+Projects deplopyment link: https://fabulous-bombolone-19ab2d.netlify.app/
